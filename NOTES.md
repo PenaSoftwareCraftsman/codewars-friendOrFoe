@@ -33,4 +33,9 @@ TODO:
 - TEST
     - Should return [] when the input is empty ✅
     - Should return [] when the input is ["Kieran"] ✅
-    - Should return ["Ryan] when the input is ["Ryan"] 🚧
+    - Should return ["Ryan] when the input is ["Ryan"] ✅
+
+# Pomodoro 2 🍅:
+
+- TEST
+    - Should return ["Ryan] when the input is ["Ryan", "Kieran"] 🚧
