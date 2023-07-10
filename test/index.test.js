@@ -12,4 +12,8 @@ describe('friend', () => {
     it('Should return ["Ryan] when the input is ["Ryan"]', () => {
         expect(friend(["Ryan"])).toStrictEqual(["Ryan"]);
     });
+
+    it('Should return ["Ryan] when the input is ["Ryan", "Kieran"]', () => {
+        expect(friend(["Ryan", "Kieran", "Mark"])).toStrictEqual(["Ryan", "Mark"]);
+    });
 });
