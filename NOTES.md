@@ -11,6 +11,15 @@ i.e.
 friend ["Ryan", "Kieran", "Mark"] shouldBe ["Ryan", "Mark"]
 Note: keep the original order of the names in the output.
 
+# Domains
+    
+    - filters a list
+    - returns a list
+    - needs to has exactly 4 letters in it
+    - keep the original order of the names in the output
+
+    - Input = ["Ryan", "Kieran", "Jason", "Yous"]
+    - Output = ["Ryan", "Yous"]
 
 
 **Label**  
@@ -19,3 +28,5 @@ Note: keep the original order of the names in the output.
 TODO:
 
 # Pomodoro 1 🍅:
+
+- Domain search 🚧
