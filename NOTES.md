@@ -30,3 +30,5 @@ TODO:
 # Pomodoro 1 🍅:
 
 - Domain search 🚧
+- TEST
+    - Should return [] when the inputt is empty
