@@ -29,7 +29,8 @@ TODO:
 
 # Pomodoro 1 🍅:
 
-- Domain search 🚧
+- Domain search ✅
 - TEST
     - Should return [] when the input is empty ✅
-    - Should return [] when the input is ["Kieran"] 🚧
+    - Should return [] when the input is ["Kieran"] ✅
+    - Should return ["Ryan] when the input is ["Ryan"] 🚧
