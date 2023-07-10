@@ -1,0 +1,25 @@
+{
+  "name": "codewars-friendOrFoe",
+  "version": "1.0.0",
+  "description": "If a name has exactly 4 letters in it, you can be sure that it has to be a friend of yours!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenaSoftwareCraftsman/codewars-friendOrFoe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PenaSoftwareCraftsman/codewars-friendOrFoe/issues"
+  },
+  "homepage": "https://github.com/PenaSoftwareCraftsman/codewars-friendOrFoe#readme"
+}

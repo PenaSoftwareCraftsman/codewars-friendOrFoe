@@ -1,9 +1,9 @@
-# KATA NAME
+# Friend or Foe?
 
-XXXX A short description XXXXXX
+If a name has exactly 4 letters in it, you can be sure that it has to be a friend of yours!
 
 
-[XX KATA NAME FOR THE LINK](LINK)
+[Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f)
 
 ## Prerequisites
 
