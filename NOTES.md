@@ -32,3 +32,4 @@ TODO:
 - Domain search 🚧
 - TEST
     - Should return [] when the input is empty ✅
+    - Should return [] when the input is ["Kieran"] 🚧
